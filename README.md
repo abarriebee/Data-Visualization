@@ -1,6 +1,6 @@
 # The Art of Visualization
 
-Covering the imprtance of organizing data for visualization on Excel and Tableau
+Covering the imprtance of story telling with data visualization in Excel and Tableau
 
 ## Table of content 
 * [Effective Data and Visualization](#Effective)
@@ -73,4 +73,8 @@ Here lies inspriation for data visualization. Listed below are different resourc
 
 ## Decision Tree
 
+How do you decide what is best for represetning your you?
 
+The **decision tree** is a tool to aid in data-driven decision 
+
+![ScreenShot](https://github.com/abarriebee/Data-Visualization/blob/1c14aaf8a5dc2786f189597158de10ae41cd8a0b/Images/Decision%20Tree.png)

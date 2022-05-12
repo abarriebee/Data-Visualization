@@ -19,8 +19,7 @@ Covering the imprtance of story telling with data visualization in Excel and Tab
   * [Five Phases]() 
 * [Highlighting Key Information](#hki)
 * [Designing a Chart in 60 min](#dc)
-  
-## Understanding Data Visualization
+ 
 
 ## Effective Data and Visualization
 

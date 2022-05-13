@@ -74,6 +74,18 @@ Here lies inspriation for data visualization. Listed below are different resourc
 
 How do you decide what is best for represetning your you?
 
-The **decision tree** is a tool to aid in data-driven decision 
+The **decision tree** is a tool to aid in data-driven decisions
 
 ![ScreenShot](https://github.com/abarriebee/Data-Visualization/blob/1c14aaf8a5dc2786f189597158de10ae41cd8a0b/Images/Decision%20Tree.png)
+
+Questions to consider when choosing how to deliver data:
+* Are there multiple datasets?
+* Are you measuring changes over time?
+* Do relationships between the data need to be shown?
+
+## Principle <a name= "p"></a>
+
+Key principle to consider:
+
+1. **Balance**: 
+
